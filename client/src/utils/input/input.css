@@ -1,0 +1,11 @@
+input {
+  bottom: none;
+  border-bottom: #C7AA92 solid 3px;
+  background: transparent;
+  width: 100%;
+  padding: 3px;
+}
+input:focus {
+  outline: none;
+  transform: scale(1.01);
+}

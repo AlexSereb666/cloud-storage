@@ -1,0 +1,39 @@
+.navbar {
+  display: flex;
+  height: 50px;
+  justify-content: flex-start;
+  background-color: #5c3825;
+  width: 100%;
+}
+.navbar__header {
+  margin-left: 10px;
+  font-weight: 700;
+  font-size: 24px;
+}
+.navbar__login {
+  margin-left: auto;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.navbar__search {
+  width: 200px;
+  margin-left: 30px;
+}
+.navbar__avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.navlink {
+  text-decoration: none;
+}
+.navbar__logo {
+  width: 150px;
+  height: auto;
+}
+.container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0 80px;
+}
