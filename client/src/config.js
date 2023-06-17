@@ -1,1 +1,1 @@
-export const API_URL = 'cloud-storage-navy.vercel.app/';
+export const API_URL = 'cloud-storage-navy.vercel.app';
